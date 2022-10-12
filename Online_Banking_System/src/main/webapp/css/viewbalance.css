@@ -1,0 +1,43 @@
+.showbalance{
+    background-color:#999993;
+    width: 600px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: -80px;
+    border-radius: 10px;
+    border-style:initial;
+}
+
+.close{
+    margin-left: 550px;
+    margin-top: -80px;
+   
+}
+ .acc{
+    margin-left:190px;
+   
+}
+
+.accc{
+    margin-left:190px;
+}
+
+.tbal{
+    border-style: none;
+    background-color: #eeeee4;
+}
+
+
+.show{
+    margin-top: 60px;
+    margin-left: 110px;
+    margin-right: 20px;
+    height: 230px;
+    width: 380px;
+    background-color: #eeeee4;
+    border-radius: 10px;
+}
+
+.bal{
+    margin-left: 30px;
+}

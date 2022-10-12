@@ -1,0 +1,30 @@
+table {
+    /* display: none; */
+    background-color: aliceblue;
+    margin-left: 10;
+    margin-right: 10;
+    margin-top: 10;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+
+.table {
+    margin-left: 200;
+}
+
+.box{
+    margin-right: 2000px;
+    margin-top: 60px;
+    margin-left: -100px;
+}
+
+.date{
+    width: 30px;
+}

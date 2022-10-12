@@ -1,0 +1,159 @@
+body{
+    background-color:honeydew;
+}
+
+.main{
+    background-color:slategrey;
+    height: 150px;
+}
+
+.user{  
+    background-color:#999993;
+    width: 1000px;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: -80px;
+    border-radius: 10px;
+    border-style:initial;
+}
+
+.img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.img2{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin-left: 750px;
+    margin-top: 10px;
+}
+
+.username{
+    margin-top: -50px;
+    margin-left: 380px;
+}
+
+
+.line{
+    color: black;
+    margin-top: 0.5px;
+}
+
+.account{
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 30px;
+    height: 430px;
+    width: 700px;
+    background-color: #eeeee4;
+    border-radius: 10px;
+}
+
+.account .sec1{
+    margin-top: -10px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+
+.balance{
+    height: 60px;
+    width: 100px;
+    margin-left: 18px;
+    margin-top: 5px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+    border-style:groove;
+}
+
+
+
+.SendMoney{
+    height: 60px;
+    width: 100px;
+    margin-left: 140px;
+    margin-top: -59px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+}
+
+.transaction{
+    height: 60px;
+    width: 100px;
+    margin-left: 260px;
+    margin-top: -59px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+}
+
+.Withdraw{
+    height: 60px;
+    width: 100px;
+    margin-left: 380px;
+    margin-top: -59px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+}
+
+.ViewDetails{
+    height: 60px;
+    width: 100px;
+    margin-left: 500px;
+    margin-top: -59px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+}
+.About{
+    height: 60px;
+    width: 100px;
+    margin-left: 500px;
+    margin-top: -59px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+}
+
+.five{
+    height: 60px;
+    width: 100px;
+    margin-left: 500px;
+    margin-top: -59px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    text-justify: auto;
+
+}
+
+.text{
+    margin-top: -3px;
+}
+
+.set2{
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 580px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+

@@ -1,0 +1,47 @@
+.bt{
+    margin-left: 200px;
+}
+
+.btt{
+    margin-top: 15px;
+    margin-left: 90px;
+    border-radius: 5px;
+    border-style: unset;
+    height: 25px;
+}
+
+.showbalancee{
+    background-color:#999993;
+    width: 600px;
+    height: 450px;
+    margin-left: 400px;
+    margin-top: -80px;
+    border-radius: 10px;
+    border-style:initial;
+}
+
+.showw{   
+       margin-top: 60px;
+        margin-left: 110px;
+        margin-right: 20px;
+        height: 300px;
+        width: 380px;
+        background-color: #eeeee4;
+        border-radius: 10px;  
+}
+
+
+.bpay{
+    width: 220px;
+    height: 28px;
+    margin-top: 20px;
+    margin-left: 65px;
+    border-radius: 5px;
+    border-style:groove;
+    background-color: dodgerblue;
+}
+
+.bpay:hover{
+    background-color: black;
+    color: white;
+}

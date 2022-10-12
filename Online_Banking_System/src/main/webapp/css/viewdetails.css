@@ -1,0 +1,33 @@
+.bttt{
+    margin-top: 15px;
+    margin-left: 90px;
+    border-radius: 5px;
+    border-style: unset;
+    height: 25px;
+}
+
+.showww{
+   
+        margin-top: 60px;
+        margin-left: 110px;
+        margin-right: 20px;
+        height: 380px;
+        width: 400px;
+        background-color: #eeeee4;
+        border-radius: 10px;
+    
+}
+
+.showbalanceee{
+    background-color:#999993;
+    width: 600px;
+    height: 510px;
+    margin-left: 400px;
+    margin-top: -80px;
+    border-radius: 10px;
+    border-style:initial;
+}
+
+.hey{
+    margin-left: 40px;
+}
